@@ -4,7 +4,4 @@ Testing the commit feature!
 
 I have added something new here.
 
-i love you!
-
-sorry 
-1 12312
+i love you! 1 12312
