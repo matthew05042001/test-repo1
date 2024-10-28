@@ -4,4 +4,39 @@ Testing the commit feature!
 
 I have added something new here.
 
+<<<<<<< HEAD
 i love you! 1 12312
+=======
+i love you!
+
+sorry 
+1 12312!!!
+
+fiejfeijfi
+
+" This is the the new feature I am adding in the new featurre"
+hello this the new feature
+
+
+2nd line of code 
+
+
+now you see in this 2nd branch and in the master  will disappear.
+whjhwefuhweuh  efjewifj
+
+how are  you doing todays?
+i will just added this 
+
+
+I just want to practice more !
+
+
+hek=eirjgeijrijgei12
+
+
+bangke
+
+grgirigjrjgr ri wull add buttin 
+fefkeifjifjfe
+feifheijfij
+>>>>>>> new-feature
